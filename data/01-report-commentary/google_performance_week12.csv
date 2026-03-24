@@ -1,0 +1,12 @@
+campaign,ad_group,spend,impressions,clicks,ctr,cpc,conversions,cpa,roas,date_start,date_end
+Lumina_Search_Brand,Brand - Exact,1850.00,42000,3780,9.00%,0.49,425,4.35,9.2,2026-03-17,2026-03-23
+Lumina_Search_Brand,Brand - Phrase,920.00,28000,1680,6.00%,0.55,156,5.90,7.8,2026-03-17,2026-03-23
+Lumina_Search_NonBrand,Skincare Serums,3200.00,89000,2670,3.00%,1.20,112,28.57,2.1,2026-03-17,2026-03-23
+Lumina_Search_NonBrand,Anti-Aging Creams,4100.00,112000,3360,3.00%,1.22,145,28.28,2.2,2026-03-17,2026-03-23
+Lumina_Search_NonBrand,Vitamin C Serum,2800.00,78000,2340,3.00%,1.20,98,28.57,2.0,2026-03-17,2026-03-23
+Lumina_Search_Competitor,Competitor - Generic,1900.00,52000,1040,2.00%,1.83,42,45.24,1.4,2026-03-17,2026-03-23
+Lumina_Search_Competitor,Competitor - Specific,2200.00,48000,960,2.00%,2.29,38,57.89,1.1,2026-03-17,2026-03-23
+Lumina_PMax,Performance Max - All,8500.00,620000,12400,2.00%,0.69,412,20.63,2.8,2026-03-17,2026-03-23
+Lumina_Shopping,Standard Shopping,4200.00,185000,5550,3.00%,0.76,234,17.95,3.1,2026-03-17,2026-03-23
+Lumina_Display_Retargeting,Display - Site Visitors,1800.00,420000,2520,0.60%,0.71,89,20.22,2.9,2026-03-17,2026-03-23
+Lumina_YouTube,YouTube - In-Stream,3100.00,890000,4450,0.50%,0.70,67,46.27,1.2,2026-03-17,2026-03-23
