@@ -11,6 +11,7 @@ You are orchestrating a live demo. The instructor is presenting to an audience a
 5. **Use clear headers and formatting.** The audience is reading your terminal from across a room.
 6. **After each output, show teachable moments** as a highlighted block the instructor can riff on.
 7. **If something goes wrong**, say: "This is the reality of working with AI — sometimes you course-correct. That's why you're the manager." Then move on.
+8. **All exercise-1 files are under `exercise-1-live-demo/`.** Prompts are at `exercise-1-live-demo/prompts/`, data at `exercise-1-live-demo/data/`, outputs at `exercise-1-live-demo/outputs/`.
 
 ## Phase 1: Set the Stage
 
@@ -28,7 +29,7 @@ Display this to the audience:
 
 ---
 
-Then run `ls data/` via the Bash tool to show the folder structure.
+Then run `ls exercise-1-live-demo/data/` via the Bash tool to show the folder structure.
 
 After showing the folders, display:
 
@@ -51,8 +52,8 @@ Display:
 
 ### Do the work
 
-1. Read `prompts/01-report-commentary.md` to understand the task
-2. Read ALL 6 files in `data/01-report-commentary/`
+1. Read `exercise-1-live-demo/prompts/01-report-commentary.md` to understand the task
+2. Read ALL 6 files in `exercise-1-live-demo/data/01-report-commentary/`
 3. Follow the prompt's instructions exactly — produce the full weekly commentary output
 4. Format it clearly with headers so the audience can follow
 
@@ -89,12 +90,12 @@ Use the Agent tool to launch BOTH of these in a single message (parallel tool ca
 Prompt the agent with:
 "You are running a live demo. Read ALL of the following files, then follow the prompt instructions to produce the full meeting debrief output. Format it clearly with headers.
 
-Prompt file: prompts/02-meeting-notes.md
+Prompt file: exercise-1-live-demo/prompts/02-meeting-notes.md
 Data files (read ALL of these):
-- data/02-meeting-notes/meeting_transcript_march21.md
-- data/02-meeting-notes/previous_meeting_march14.md
-- data/02-meeting-notes/project_scope.md
-- data/02-meeting-notes/open_action_items.md
+- exercise-1-live-demo/data/02-meeting-notes/meeting_transcript_march21.md
+- exercise-1-live-demo/data/02-meeting-notes/previous_meeting_march14.md
+- exercise-1-live-demo/data/02-meeting-notes/project_scope.md
+- exercise-1-live-demo/data/02-meeting-notes/open_action_items.md
 
 Read the prompt file first to understand the task structure, then read all data files, then produce the complete output as specified in the prompt."
 
@@ -102,12 +103,12 @@ Read the prompt file first to understand the task structure, then read all data 
 Prompt the agent with:
 "You are running a live demo. Read ALL of the following files, then follow the prompt instructions to produce the full creative brief output. Format it clearly with headers.
 
-Prompt file: prompts/03-creative-brief.md
+Prompt file: exercise-1-live-demo/prompts/03-creative-brief.md
 Data files (read ALL of these):
-- data/03-creative-brief/competitor_ads.md
-- data/03-creative-brief/brand_guidelines.md
-- data/03-creative-brief/audience_research.md
-- data/03-creative-brief/past_creative_performance.md
+- exercise-1-live-demo/data/03-creative-brief/competitor_ads.md
+- exercise-1-live-demo/data/03-creative-brief/brand_guidelines.md
+- exercise-1-live-demo/data/03-creative-brief/audience_research.md
+- exercise-1-live-demo/data/03-creative-brief/past_creative_performance.md
 
 Read the prompt file first to understand the task structure, then read all data files, then produce the complete output as specified in the prompt."
 
@@ -138,8 +139,8 @@ Display:
 
 ### Do the work
 
-1. Read `prompts/04-campaign-simulation.md`
-2. Read ALL 5 files in `data/04-campaign-simulation/` (including `previous_simulation_predictions.md`)
+1. Read `exercise-1-live-demo/prompts/04-campaign-simulation.md`
+2. Read ALL 5 files in `exercise-1-live-demo/data/04-campaign-simulation/` (including `previous_simulation_predictions.md`)
 3. Follow the prompt exactly — produce the full simulation report WITH the Persona Recalibration Report
 
 ### After the output
@@ -169,8 +170,8 @@ Display:
 
 ### Do the work
 
-1. Read `prompts/05-vendor-monitoring.md`
-2. Read ALL 4 files in `data/05-vendor-monitoring/`
+1. Read `exercise-1-live-demo/prompts/05-vendor-monitoring.md`
+2. Read ALL 4 files in `exercise-1-live-demo/data/05-vendor-monitoring/`
 3. Follow the prompt exactly — produce the full vendor audit report
 
 ### After the output
@@ -199,10 +200,10 @@ Display:
 
 ### Step 1: Run the skill improvement analysis
 
-1. Read `prompts/06-skill-improvement.md`
-2. Read `data/06-skill-improvement/skill_under_review.md` (the original report commentary prompt)
-3. Read `data/06-skill-improvement/skill_output.md` (the output it produced)
-4. Also read a few key files from `data/01-report-commentary/` to verify source utilization
+1. Read `exercise-1-live-demo/prompts/06-skill-improvement.md`
+2. Read `exercise-1-live-demo/data/06-skill-improvement/skill_under_review.md` (the original report commentary prompt)
+3. Read `exercise-1-live-demo/data/06-skill-improvement/skill_output.md` (the output it produced)
+4. Also read a few key files from `exercise-1-live-demo/data/01-report-commentary/` to verify source utilization
 5. Follow the prompt — produce the full improvement analysis: scoring, the suggested edit (with exact BEFORE/AFTER), and the impact prediction
 
 ### After the analysis
@@ -218,9 +219,9 @@ Then ask the instructor using AskUserQuestion: "Should I apply the suggested edi
 
 ### Step 2: If they say yes
 
-1. Apply the suggested edit to `prompts/01-report-commentary.md` using the Edit tool
+1. Apply the suggested edit to `exercise-1-live-demo/prompts/01-report-commentary.md` using the Edit tool
 2. Display: "Edit applied. Re-running Report Commentary with the improved skill..."
-3. Read the UPDATED prompt and all data files in `data/01-report-commentary/`
+3. Read the UPDATED prompt and all data files in `exercise-1-live-demo/data/01-report-commentary/`
 4. Produce the improved commentary
 
 ### After the re-run
@@ -238,7 +239,7 @@ Then ask if the instructor is ready for the closing phases using AskUserQuestion
 
 ## Phase 7: The Orchestrator Glimpse
 
-Read and display the contents of `orchestrator-example.md`. Don't summarize — show the full document so the audience can see the Monday Morning Orchestrator example.
+Read and display the contents of `exercise-1-live-demo/orchestrator-example.md`. Don't summarize — show the full document so the audience can see the Monday Morning Orchestrator example.
 
 Then display:
 
