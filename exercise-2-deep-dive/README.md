@@ -20,14 +20,16 @@
 
 ## The 6 Submitted Ideas
 
-| # | Idea | Submitted By | File |
-|---|------|-------------|------|
-| 1 | Automated WBS & project planning | — | [01-wbs-planning.md](ideas/01-wbs-planning.md) |
-| 2 | Multi-platform data collection & MDI standardization | — | [02-data-standardization.md](ideas/02-data-standardization.md) |
-| 3 | Website QA — budget verification across systems | — | [03-website-qa-budget-check.md](ideas/03-website-qa-budget-check.md) |
-| 4 | Billing & invoice reconciliation (end-to-end) | — | [04-billing-reconciliation.md](ideas/04-billing-reconciliation.md) |
-| 5 | End-to-end campaign reporting & insight generation | — | [05-campaign-reporting.md](ideas/05-campaign-reporting.md) |
-| 6 | Vendor wrap report summarization | — | [06-vendor-wrap-summaries.md](ideas/06-vendor-wrap-summaries.md) |
+Each folder has `idea.md` (the submission + your prep notes) and `prompt.md` (a runnable demo with synthetic data).
+
+| # | Idea | Folder | To Run |
+|---|------|--------|--------|
+| 1 | Automated WBS & project planning | [ideas/01-wbs-planning/](ideas/01-wbs-planning/) | `cat prompt.md \| claude` |
+| 2 | Multi-platform data collection & MDI standardization | [ideas/02-data-standardization/](ideas/02-data-standardization/) | `cat prompt.md \| claude` |
+| 3 | Website QA — budget verification across systems | [ideas/03-website-qa-budget-check/](ideas/03-website-qa-budget-check/) | `cat prompt.md \| claude` |
+| 4 | Billing & invoice reconciliation (end-to-end) | [ideas/04-billing-reconciliation/](ideas/04-billing-reconciliation/) | `cat prompt.md \| claude` |
+| 5 | End-to-end campaign reporting & insight generation | [ideas/05-campaign-reporting/](ideas/05-campaign-reporting/) | `cat prompt.md \| claude` |
+| 6 | Vendor wrap report summarization | [ideas/06-vendor-wrap-summaries/](ideas/06-vendor-wrap-summaries/) | `cat prompt.md \| claude` |
 
 ---
 
