@@ -1,6 +1,6 @@
 # Agency of the Future — Workshop
 
-Two exercises for the Zenith/RebelLion cohort.
+Three exercises for the Zenith/RebelLion cohort.
 
 ---
 
@@ -39,3 +39,18 @@ See [exercise-2-deep-dive/README.md](exercise-2-deep-dive/README.md) for all 6 s
 | 4 | Billing & invoice reconciliation | Most complex, multi-team chain |
 | 5 | Campaign reporting (end-to-end) | Best-written submission, strongest example |
 | 6 | Vendor wrap report summaries | Direct connection to Exercise 1 Demo 5 |
+
+---
+
+## Exercise 3: Debug the Session — Find the Skill Gaps
+
+**Time:** 20-30 min  
+**Format:** Participants review the actual session log from the Exercise 1 demo (converted to CSV). Find where the AI struggled or missed something, then propose a skill improvement.  
+**Key concepts:** Observability, session debugging, identifying skill gaps from logs, data format accessibility
+
+See [exercise-3-session-debug/README.md](exercise-3-session-debug/README.md) for the full exercise.
+
+**Data files:**
+- `data/session-log.csv` — 101 raw steps from the live demo, readable in Excel/Sheets
+- `data/session-summary.csv` — high-level stats and phase timing
+- `data/original-session.json` — raw Langfuse export for comparison

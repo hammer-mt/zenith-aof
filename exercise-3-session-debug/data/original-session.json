@@ -1,0 +1,24 @@
+{
+  "id": "213cbe1e-9f53-424d-b1c1-e2bd8ab8ba9b",
+  "createdAt": "2026-04-01T02:19:59.208Z",
+  "updatedAt": "2026-04-01T02:19:59.208Z",
+  "projectId": "cmn2krhv0042yad07nfnn8ekh",
+  "bookmarked": false,
+  "public": false,
+  "environment": "default",
+  "traces": [
+    {
+      "id": "a6292183bcedcfd8e082f00428833676",
+      "userId": null,
+      "name": "Claude Code - Turn 1",
+      "timestamp": "2026-04-01T02:19:58.504Z",
+      "environment": "default",
+      "scores": [],
+      "comments": []
+    }
+  ],
+  "totalCost": 0.017875,
+  "users": [],
+  "scores": [],
+  "comments": []
+}

@@ -1,0 +1,23 @@
+Field,Value
+Session ID,213cbe1e-9f53-424d-b1c1-e2bd8ab8ba9b
+Task,Agency of the Future — Live Demo (6 workflows for Lumina Skin)
+AI Model,Claude Opus 4.6
+Started,2026-04-01 01:56:32
+Ended,2026-04-01 02:41:20
+Total Duration,44 minutes 48 seconds
+Total Steps,101
+Files Read,24
+Sub-Agents Launched,2
+Instructor Pauses,6
+Total Cost,$0.018 (first turn only — full session would be higher)
+Demos Completed,6 of 6 + Orchestrator glimpse + Close
+,
+--- Phase Timing ---,
+Phase 1: Set the Stage,0m 13s
+Demo 1: Report Commentary,1m 0s
+Demos 2+3: Parallel Agents,2m 16s
+Demo 4: Campaign Simulation,2m 18s
+Demo 5: Vendor Monitoring,1m 10s
+Demo 6: Skill Improvement,8m 0s (plus ~23min instructor break)
+Phase 8: Close,0m 7s
+Phase 7: Orchestrator,0m 19s
