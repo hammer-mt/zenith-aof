@@ -1,0 +1,13 @@
+Client,Campaign,Channel,Monthly_Budget,Flight_Start,Flight_End,Notes,Last_Updated
+VitalFit,VF_Spring_Brand,Google Search,8000.00,2026-03-01,2026-05-31,,2026-03-01
+VitalFit,VF_Spring_NB_Protein,Google Search,9000.00,2026-03-01,2026-05-31,,2026-03-01
+VitalFit,VF_Spring_NB_Supplements,Google Search,9000.00,2026-03-01,2026-05-31,,2026-03-01
+VitalFit,VF_Spring_Shopping,Google Shopping,8000.00,2026-03-01,2026-05-31,,2026-03-01
+VitalFit,VF_Spring_PMAX,Google PMAX,12000.00,2026-03-01,2026-05-31,,2026-03-01
+VitalFit,VF_Spring_Prosp_Broad,Meta,20000.00,2026-03-01,2026-05-31,,2026-03-01
+VitalFit,VF_Spring_Prosp_LAL,Meta,7500.00,2026-03-01,2026-05-31,,2026-03-01
+VitalFit,VF_Spring_Retarget_ATC,Meta,6500.00,2026-03-01,2026-05-31,,2026-03-01
+LuminaSkin,LS_Q1_Awareness,Meta,15000.00,2026-01-01,2026-03-31,,2026-01-05
+LuminaSkin,LS_Q1_Retarget,Meta,8000.00,2026-01-01,2026-03-31,,2026-01-05
+LuminaSkin,LS_Q1_Search_Brand,Google Search,5000.00,2026-01-01,2026-03-31,,2026-01-05
+LuminaSkin,LS_Q1_Search_NB,Google Search,12000.00,2026-01-01,2026-03-31,,2026-01-05

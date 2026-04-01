@@ -1,0 +1,16 @@
+Phase,Task,Owner,Duration,Dependencies,Notes
+1. Setup,Client kickoff call,Account Lead,Week 1,,
+1. Setup,Receive brand assets & guidelines,Account Coord,Week 1,,
+1. Setup,Audience research & persona development,Insights,Week 1-2,,"New for this client"
+1. Setup,Build media plan,Planner,Week 1-3,Client kickoff call; Audience research,"Extra week - 4 channels"
+1. Setup,Trafficking & tagging (all platforms),Ad Ops,Week 3,Build media plan,
+1. Setup,Programmatic deal setup (PMPs),Programmatic Lead,Week 2-3,Build media plan,
+2. Launch,Phased launch: Meta + Google first,Planner,Week 4,Trafficking & tagging,
+2. Launch,TikTok + Programmatic launch,Planner + Prog Lead,Week 5,Phased launch,"Staggered to manage QA"
+3. Optimize,Weekly performance reviews,Planner,Weeks 4-9,Campaign launch,
+3. Optimize,Mid-flight report,Planner + Insights,Week 6,,
+3. Optimize,Creative refresh (Meta + TikTok),Creative + Planner,Week 7,,
+3. Optimize,Audience rebalancing,Planner,Week 7,Mid-flight report,"Shifted budget from Display to TikTok"
+4. Wrap,Final performance report,Planner + Insights,Week 10,,
+4. Wrap,Vendor reconciliation,Finance,Week 10-11,,
+4. Wrap,Client debrief + next steps,Account Lead + Planner,Week 11,Final performance report; Vendor reconciliation,

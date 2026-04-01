@@ -1,0 +1,7 @@
+Campaign,Ad group,Ad type,Impr.,Clicks,Cost,Conversions,Conv. value,Conv. type
+VF_Spring_Brand,Brand - Exact,Responsive Search,42000,8200,4100.00,312,18720.00,Purchase
+VF_Spring_Brand,Brand - Broad,Responsive Search,68000,5400,3780.00,189,11340.00,Purchase
+VF_Spring_NB_Protein,Non-Brand - Protein,Responsive Search,156000,4200,8820.00,94,5640.00,Purchase
+VF_Spring_NB_Supplements,Non-Brand - Supplements,Responsive Search,198000,3800,9120.00,78,4680.00,Purchase
+VF_Spring_Shopping,All Products,Shopping,284000,6100,7930.00,156,9360.00,Purchase
+VF_Spring_PMAX,Performance Max,PMAX,520000,4800,12400.00,201,12060.00,Purchase

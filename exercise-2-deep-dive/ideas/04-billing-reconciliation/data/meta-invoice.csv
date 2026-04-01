@@ -1,0 +1,6 @@
+Invoice_Number,Billing_Period_Start,Billing_Period_End,Advertiser,Campaign,Impressions_Delivered,Amount_Billed,Billing_Method
+META-INV-2026-03-VF,2026-03-01,2026-03-31,VitalFit Supplements,VF_Spring_Prosp_Broad_18-35,557000,18800.00,Spend-based
+META-INV-2026-03-VF,2026-03-01,2026-03-31,VitalFit Supplements,VF_Spring_Prosp_LAL,189000,7350.00,Spend-based
+META-INV-2026-03-VF,2026-03-01,2026-03-31,VitalFit Supplements,VF_Spring_Retarget_ATC,152000,6010.00,Spend-based
+META-INV-2026-03-VF,2026-03-01,2026-03-31,VitalFit Supplements,VF_Spring_Retarget_Purchaser,48000,1920.00,Spend-based
+META-INV-2026-03-VF,2026-03-01,2026-03-31,VitalFit Supplements,VF_Spring_Prosp_Creators,0,0.00,Spend-based

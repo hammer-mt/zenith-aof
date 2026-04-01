@@ -1,0 +1,6 @@
+Placement_ID,Placement_Name,Advertiser,Start_Date,End_Date,Planned_Units,Cost_Structure,Booked_Cost,Created_By,Created_Date,Notes
+CM-44201,VF_Prospecting_Broad_Feed,VitalFit Supplements,2026-03-10,2026-04-30,800000,CPM,28000.00,Jordan,2026-03-03,
+CM-44202,VF_Prospecting_LAL_Feed,VitalFit Supplements,2026-03-10,2026-04-30,300000,CPM,10500.00,Jordan,2026-03-03,
+CM-44203,VF_Retargeting_ATC,VitalFit Supplements,2026-03-10,2026-04-30,200000,CPM,8400.00,Jordan,2026-03-03,
+CM-44204,VF_Retargeting_Purchaser_Stories,VitalFit Supplements,2026-03-10,2026-04-30,100000,CPM,3100.00,Jordan,2026-03-03,
+CM-44205,VF_Prospecting_TikTok_Creators,VitalFit Supplements,2026-03-17,2026-04-30,150000,CPM,6000.00,Marcus,2026-03-14,"Added per client request - Prisma update pending"

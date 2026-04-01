@@ -1,0 +1,14 @@
+Vendor,Vendor_Term,MDI_Standard,Notes
+Meta,Amount Spent,Spend_Media,Does NOT include fees
+Meta,Results,Conversions,Check Result_Type to determine Conv_Type
+Meta,Link Clicks,Clicks,"Not 'All Clicks' - that includes likes, comments"
+Meta,Reach,—,No MDI equivalent - log but don't map
+Meta,Frequency,—,No MDI equivalent - log but don't map
+Google,Cost,Spend_Total,INCLUDES fees - must subtract to get Spend_Media
+Google,Conversions,Conversions,
+Google,Conv. value,—,No MDI equivalent
+Google,Impr.,Impressions,Abbreviated
+Google,Clicks,Clicks,Direct mapping
+TikTok,Total Cost,Spend_Total,INCLUDES platform fees
+TikTok,Result,Conversions,Check Optimization_Event for Conv_Type
+TikTok,Video Views,—,No MDI equivalent unless counted as Impressions per SOW

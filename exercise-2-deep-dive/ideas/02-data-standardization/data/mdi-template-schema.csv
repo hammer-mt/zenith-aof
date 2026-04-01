@@ -1,0 +1,16 @@
+Field,Description,Format,Required
+Campaign_Name,Standardized campaign name,[Client]_[Channel]_[Objective]_[Audience]_[Quarter],Yes
+Platform,Source platform,Meta / Google / TikTok / DV360,Yes
+Ad_Product,Ad format type,Standard_Display / Video / Native / Search / Shopping,Yes
+Date_Range,Reporting period,YYYY-MM-DD to YYYY-MM-DD,Yes
+Impressions,Total impressions served,Integer,Yes
+Clicks,Total clicks,Integer,Yes
+Spend_Media,Actual media cost (net),CAD 2 decimals,Yes
+Spend_Fees,Agency/platform fees,CAD 2 decimals,Yes
+Spend_Total,Media + Fees,CAD 2 decimals,Yes
+Conversions,Primary conversion event,Integer,Yes
+Conv_Type,Conversion definition,Purchase / Lead / SignUp / AddToCart,Yes
+CPM,Cost per 1000 impressions,CAD 2 decimals (calculated from Spend_Media),Calculated
+CPC,Cost per click,CAD 2 decimals,Calculated
+CPA,Cost per acquisition,CAD 2 decimals,Calculated
+CTR,Click-through rate,Percentage 2 decimals,Calculated

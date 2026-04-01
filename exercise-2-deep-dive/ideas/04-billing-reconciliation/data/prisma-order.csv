@@ -1,0 +1,5 @@
+Order_Number,Client,Campaign,Created_By,Created_Date,Line_Number,Placement_Name,Format,Flight_Start,Flight_End,Planned_Impressions,Net_Cost
+PMX-2026-0891,VitalFit Supplements,VitalFit Spring Launch - Meta,Jordan (Planner),2026-03-03,001,VF_Prospecting_Broad_Feed,Image + Carousel,2026-03-10,2026-04-30,800000,28000.00
+PMX-2026-0891,VitalFit Supplements,VitalFit Spring Launch - Meta,Jordan (Planner),2026-03-03,002,VF_Prospecting_LAL_Feed,Video,2026-03-10,2026-04-30,300000,10500.00
+PMX-2026-0891,VitalFit Supplements,VitalFit Spring Launch - Meta,Jordan (Planner),2026-03-03,003,VF_Retargeting_ATC_Feed,Image + Dynamic,2026-03-10,2026-04-30,200000,8400.00
+PMX-2026-0891,VitalFit Supplements,VitalFit Spring Launch - Meta,Jordan (Planner),2026-03-03,004,VF_Retargeting_Purchaser_Stories,Video,2026-03-17,2026-04-30,100000,3100.00

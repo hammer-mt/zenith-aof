@@ -1,0 +1,13 @@
+Phase,Task,Owner,Duration,Dependencies,Notes
+1. Setup,Client kickoff call,Account Lead,Week 1,,
+1. Setup,Receive brand assets & guidelines,Account Coord,Week 1,,"Delayed 3 days - client slow to send"
+1. Setup,Build media plan,Planner,Week 1-2,Client kickoff call,
+1. Setup,Trafficking & tagging,Ad Ops,Week 2,Build media plan; Receive brand assets,
+2. Launch,Campaign launch (Meta + Google),Planner + Ad Ops,Week 3,Trafficking & tagging,
+2. Launch,YouTube pre-roll go-live,Video Specialist,Week 3,Trafficking & tagging,"Delayed 2 days - creative not approved"
+3. Optimize,Weekly performance reviews,Planner,Weeks 3-7,Campaign launch,
+3. Optimize,Mid-flight optimization report,Planner,Week 5,Weekly performance reviews,"Client requested extra cut by region"
+3. Optimize,Creative refresh (Meta),Creative + Planner,Week 5,Mid-flight optimization report,
+4. Wrap,Final performance report,Planner + Insights,Week 8,,
+4. Wrap,Vendor reconciliation,Finance,Week 8-9,Final performance report,"Took extra week due to Meta discrepancy"
+4. Wrap,Client debrief presentation,Account Lead,Week 9,Final performance report; Vendor reconciliation,

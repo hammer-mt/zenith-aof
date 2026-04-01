@@ -1,0 +1,11 @@
+Client,Campaign,Vendor,Month,Prisma_Order_Amount,CM360_Booked,Actual_Spend_Platform,Invoice_Amount,Agency_Fee,Total_Client_Charge,Status,Notes
+VitalFit Supplements,VF_Prospecting_Broad_Feed,Meta,2026-03,28000.00,28000.00,18800.00,18800.00,2820.00,21620.00,Draft,"Partial month - campaign started Mar 10"
+VitalFit Supplements,VF_Prospecting_LAL_Feed,Meta,2026-03,10500.00,10500.00,7350.00,7350.00,1102.50,8452.50,Draft,
+VitalFit Supplements,VF_Retargeting_ATC_Feed,Meta,2026-03,8400.00,8400.00,6010.00,6010.00,901.50,6911.50,Draft,
+VitalFit Supplements,VF_Retargeting_Purchaser_Stories,Meta,2026-03,3100.00,3100.00,1920.00,1920.00,288.00,2208.00,Draft,"Started Mar 17 - underpacing"
+VitalFit Supplements,VF_Prospecting_TikTok_Creators,TikTok,2026-03,,6000.00,0.00,0.00,0.00,0.00,Draft,"CM360 only - no Prisma order. Never activated."
+VitalFit Supplements,VF_Spring_Brand,Google,2026-03,8000.00,,7880.00,7880.00,833.33,8713.33,Draft,"No CM360 placement - direct buy"
+VitalFit Supplements,VF_Spring_NB_Protein,Google,2026-03,9000.00,,8820.00,8820.00,833.33,9653.33,Draft,"Budget increased mid-month"
+VitalFit Supplements,VF_Spring_NB_Supplements,Google,2026-03,9000.00,,9120.00,9120.00,833.33,9953.33,Draft,
+VitalFit Supplements,VF_Spring_Shopping,Google,2026-03,8000.00,,7930.00,7930.00,833.33,8763.33,Draft,"Daily cap adjusted Mar 18"
+VitalFit Supplements,VF_Spring_PMAX,Google,2026-03,12000.00,,12400.00,12400.00,833.33,13233.33,Draft,"Budget increased Mar 15"
